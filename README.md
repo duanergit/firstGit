@@ -1,0 +1,2 @@
+# firstGit
+my firsst repository
